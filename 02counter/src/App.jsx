@@ -16,7 +16,7 @@ function App() {
 
   return (
     <>
-      <h1>Hello World!</h1>
+      <h1>Hello World Deep!</h1>
       <h2>Counter Value: {counter}</h2>
 
       <button onClick={addValue}>Increment</button>
