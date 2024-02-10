@@ -69,7 +69,7 @@ export default function Header() {
                   Contact Us
                 </NavLink>
               </li>
-              <li>
+              {/* <li>
                 <NavLink
                   to="/github"
                   className={({ isActive }) =>
@@ -80,7 +80,7 @@ export default function Header() {
                 >
                   Github
                 </NavLink>
-              </li>
+              </li> */}
             </ul>
           </div>
         </div>
